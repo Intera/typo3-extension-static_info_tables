@@ -34,7 +34,11 @@
       "SJBR\\StaticInfoTables\\": "Classes/"
     },
     "exclude-from-classmap": [
-      "Classes/Domain/Model/*"
+      "Classes/Domain/Model/Country.php",
+      "Classes/Domain/Model/CountryZone.php",
+      "Classes/Domain/Model/Currency.php",
+      "Classes/Domain/Model/Language.php",
+      "Classes/Domain/Model/Territory.php"
     ]
   },
   "extra": {
